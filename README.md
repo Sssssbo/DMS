@@ -1,4 +1,4 @@
-# Deeper and mixed supervision for salient object detection in automatic suface inspection
+# Deeper and Mixed Supervision for Salient Object Detection in Automatic Suface Inspection
 This repository provides saliency maps of DMS network in Magnetic-tile-defect-datasets(MTDD), RSDDs, Road Cracks dataset and NEU surface defect dataset.
 ## ASI Datesets
 If you need those ASI datasets, you can reach as follows:  
