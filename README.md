@@ -6,5 +6,5 @@ If you need those ASI datasets, you can reach as follows:
 >RSDDs: *<http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx>*  
 >RoadCracks: *<https://github.com/cuilimeng/CrackForest-dataset>*  
 >NEU surface defect datasets: *<http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html>*  
-## Evaluate the results
+## Evaluation of the results
 You may refer to this repo for results evaluation: [SalMetric.](https://github.com/Andrew-Qibin/SalMetric)
